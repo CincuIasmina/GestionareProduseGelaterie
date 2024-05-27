@@ -1,0 +1,15 @@
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\bin\Debug\proiectMTP-CincuIasmina.exe.config
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\bin\Debug\proiectMTP-CincuIasmina.exe
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\bin\Debug\proiectMTP-CincuIasmina.pdb
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP-CincuIasmina.csproj.AssemblyReference.cache
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP_CincuIasmina.Autentificare.resources
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP_CincuIasmina.Properties.Resources.resources
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP-CincuIasmina.csproj.GenerateResource.cache
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP-CincuIasmina.csproj.CoreCompileInputs.cache
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP-CincuIasmina.exe
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP-CincuIasmina.pdb
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP_CincuIasmina.Inregistrare.resources
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP_CincuIasmina.Menu.resources
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP_CincuIasmina.FormaPrincipala.resources
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP_CincuIasmina.FormCautare.resources
+C:\Users\Iasmina\source\repos\proiectMTP-CincuIasmina\proiectMTP-CincuIasmina\obj\Debug\proiectMTP_CincuIasmina.AdaugareInformatii.resources
